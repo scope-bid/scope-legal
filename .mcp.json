@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "scope-legal": {
+      "type": "http",
+      "url": "https://scope.bid/api/mcp/legal"
+    }
+  }
+}

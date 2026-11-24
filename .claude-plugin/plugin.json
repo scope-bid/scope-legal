@@ -1,0 +1,25 @@
+{
+  "name": "scope-legal",
+  "displayName": "Scope for Law Firms",
+  "version": "0.1.0",
+  "description": "Order outside legal work from independent professionals through Scope, with a person at your firm approving every award before anything is committed.",
+  "author": {
+    "name": "Scope Bid, Inc.",
+    "url": "https://scope.bid"
+  },
+  "homepage": "https://scope.bid",
+  "repository": "https://github.com/scope-bid/scope-legal",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "law-firm",
+    "litigation",
+    "outside-work",
+    "approvals",
+    "mcp"
+  ],
+  "icon": "./icon.png",
+  "documentationUrl": "https://scope.bid/docs",
+  "supportUrl": "https://scope.bid/contact",
+  "privacyPolicyUrl": "https://scope.bid/privacy"
+}
