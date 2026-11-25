@@ -52,6 +52,7 @@ Every award or dispatch requested through this connector is held as a pending ap
 
 - Documentation: https://scope.bid/docs
 - Support: the form at https://scope.bid/contact
+- Questions or problems: email support@scope.bid.
 - Privacy: https://scope.bid/privacy
 
 ## License
